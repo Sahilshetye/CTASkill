@@ -10,6 +10,7 @@
     "alexa-app": "^2.3.4",
     "chai": "^3.5.0",
     "chai-as-promised": "^5.3.0",
+    "dynasty": "^0.2.6",
     "easysoap": "^1.0.5",
     "lodash": "^4.14.2",
     "node-rest-client": "^2.0.1",
